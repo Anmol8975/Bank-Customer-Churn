@@ -67,9 +67,7 @@ Based on the synthesis of the predictive model and data visualizations, the foll
 * R Script (Bank_customer_churn_script.R): Contains the full data pipeline, from EDA and dummy variable creation to training the Logistic Regression model and generating the ROC curve.
 
 * Dataset: The raw dataset Bank Customer Churn Prediction.csv is required to run the R script. Update the file path in the read.csv() function to match your local directory.
-
-* Power BI Theme (BankChurnTheme.json): The custom theme file used to format the dashboard.
-
+  
 * Power BI File (.pbix): Download the .pbix file to interact with the visual dashboard and explore the DAX measures used for KPI calculations.
 
 
